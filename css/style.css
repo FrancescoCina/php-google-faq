@@ -1,0 +1,59 @@
+
+header{
+    background-color: #fff;
+    height:100px;
+    width:100%;
+    position: fixed;
+    top:0;
+    left:0;
+    z-index:1;
+}
+
+.header-top{
+    height:50%;
+    margin-left:10px;
+}
+
+.header-bottom{
+    height:50%;
+    border-bottom: 1px solid #d4d4d4;
+    background-color: #fff;
+
+}
+
+
+
+main{
+    padding-top: 150px;
+}
+
+
+.user-photo{
+    width: 150px;
+    height:100px;
+}
+
+.active{
+    color:blue;
+}
+
+
+li{
+   list-style-type: none;
+   margin: 0 10px;
+}
+
+a{
+    text-decoration: none;
+    color:#000;
+}
+
+.black{
+    color:#000;
+}
+
+
+footer{
+    height: 70px;;
+    background-color:#efe9e9de;
+}

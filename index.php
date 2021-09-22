@@ -12,14 +12,14 @@ $page_contents = [
     ], 
     [
         'question' => '<h2>Perché il mio account è associato a un paese?</h2>',
-        'answer' =>'<p>Il tuo account è associato a un paese (o territorio) nei Termini di servizio per poter stabilire due cose:</p><ol><li class="smANld">La società consociata Google che offre i servizi, tratta le tue informazioni ed è responsabile del rispetto delle leggi sulla privacy vigenti. Generalmente Google offre i propri servizi per i consumatori tramite una delle due società seguenti:<ol type="a"><li class="smANld">Google Ireland Limited, se gli utenti sono residenti nello Spazio economico europeo (paesi dell\'Unione europea, oltre a Islanda, Liechtenstein e Norvegia) o in Svizzera.</li><li class="smANld">Google LLC, con sede negli Stati Uniti, per il resto del mondo.</li></ol></li><li class="smANld">La versione dei termini che regola il nostro rapporto, che può variare in base alle leggi locali.</li></ol><p>Tieni presente che i servizi Google sono fondamentalmente gli stessi a prescindere dalla società consociata che li offre o dal paese a cui è associato il tuo account.</p><h3>Stabilire il paese associato al tuo account</h3><p>Quando crei un nuovo Account Google, lo associamo a un paese in base a dove è stato creato. Per quanto riguarda gli account creati almeno un anno fa, usiamo il paese da cui accedi solitamente ai servizi Google, in genere i servizi in cui hai trascorso più tempo nell\'ultimo anno.</p><p>I viaggi frequenti solitamente non influiscono sul paese associato al tuo account. Se ti trasferisci in un altro paese, potrebbe occorrere circa un anno per aggiornare l\'associazione del paese.</p><p>Se il paese associato al tuo account non corrisponde al tuo paese di residenza, il motivo potrebbe essere la differenza tra il paese in cui lavori e il paese in cui risiedi, l\'installazione di una rete privata virtuale (VPN) per mascherare il tuo indirizzo IP oppure la residenza vicino a un confine territoriale. <a href="country-association-contact-us" class="N6CPUe" target="_blank">Contattaci</a> se ritieni che il paese associato al tuo account sia sbagliato.</p>',
+        'answer' =>'<p>Il tuo account è associato a un paese (o territorio) nei Termini di servizio per poter stabilire due cose:</p><ol><li>La società consociata Google che offre i servizi, tratta le tue informazioni ed è responsabile del rispetto delle leggi sulla privacy vigenti. Generalmente Google offre i propri servizi per i consumatori tramite una delle due società seguenti:<ol type="a"><li>Google Ireland Limited, se gli utenti sono residenti nello Spazio economico europeo (paesi dell\'Unione europea, oltre a Islanda, Liechtenstein e Norvegia) o in Svizzera.</li><li>Google LLC, con sede negli Stati Uniti, per il resto del mondo.</li></ol></li><li>La versione dei termini che regola il nostro rapporto, che può variare in base alle leggi locali.</li></ol><p>Tieni presente che i servizi Google sono fondamentalmente gli stessi a prescindere dalla società consociata che li offre o dal paese a cui è associato il tuo account.</p><h3>Stabilire il paese associato al tuo account</h3><p>Quando crei un nuovo Account Google, lo associamo a un paese in base a dove è stato creato. Per quanto riguarda gli account creati almeno un anno fa, usiamo il paese da cui accedi solitamente ai servizi Google, in genere i servizi in cui hai trascorso più tempo nell\'ultimo anno.</p><p>I viaggi frequenti solitamente non influiscono sul paese associato al tuo account. Se ti trasferisci in un altro paese, potrebbe occorrere circa un anno per aggiornare l\'associazione del paese.</p><p>Se il paese associato al tuo account non corrisponde al tuo paese di residenza, il motivo potrebbe essere la differenza tra il paese in cui lavori e il paese in cui risiedi, l\'installazione di una rete privata virtuale (VPN) per mascherare il tuo indirizzo IP oppure la residenza vicino a un confine territoriale. <a href="country-association-contact-us" target="_blank">Contattaci</a> se ritieni che il paese associato al tuo account sia sbagliato.</p>',
     ], 
     [
-        'question'=> '<h2 class="SbNcad">Come faccio a rimuovere informazioni su di me dai risultati di ricerca di Google?</h2>',
+        'question'=> '<h2>Come faccio a rimuovere informazioni su di me dai risultati di ricerca di Google?</h2>',
         'answer'=>'<p>I risultati di ricerca di Google rispecchiano i contenuti pubblicamente disponibili sul Web. I motori di ricerca non possono rimuovere i contenuti direttamente dai siti web, quindi rimuovere risultati di ricerca da Google non consente di rimuovere i contenuti dal Web. Se desideri rimuovere qualcosa dal Web, devi <a href="https://support.google.com/websearch/answer/9109?hl=it">contattare il webmaster</a> del sito su cui sono pubblicati i contenuti e chiedergli di apportare una modifica. Inoltre, se, ai sensi delle leggi europee per la protezione dei dati, desideri richiedere la rimozione di determinate informazioni su di te visualizzate nei risultati di ricerca di Google, <a href="https://support.google.com/legal/contact/lr_eudpa?product=websearch&amp;hl=it">fai clic qui</a>. Una volta che i contenuti saranno stati rimossi e che Google avrà rilevato l\'aggiornamento, le informazioni non verranno più visualizzate nei risultati di ricerca di Google. In caso di una richiesta di rimozione urgente, è inoltre possibile <a href="https://support.google.com/websearch/troubleshooter/3111061?hl=it">visitare la nostra pagina di assistenza per avere ulteriori informazioni</a>.</p>',
     ], 
     [
-        'question'=> '<h2 class="SbNcad">Quando faccio clic sui risultati della Ricerca Google, le mie chiavi di ricerca vengono inviate ai siti web?</h2>',
+        'question'=> '<h2>Quando faccio clic sui risultati della Ricerca Google, le mie chiavi di ricerca vengono inviate ai siti web?</h2>',
         'answer'=>'<p>In alcuni casi sì. Quando fai clic su un risultato della Ricerca Google, il tuo browser web potrebbe reindirizzare alla pagina web di destinazione anche l\'indirizzo Internet, o URL, della pagina dei risultati di ricerca sotto forma di <a href="privacy/key-terms#toc-terms-http">URL referrer</a>. Talvolta, l\'URL della pagina dei risultati di ricerca potrebbe contenere la query di ricerca che hai inserito. Se utilizzi la ricerca SSL (la funzione di ricerca criptata di Google), nella maggior parte dei casi i termini di ricerca non vengono inviati come parte dell\'URL negli URL referrer. Questo comportamento può fare eccezione, ad esempio se utilizzi alcuni browser meno diffusi. Ulteriori informazioni sulla ricerca SSL sono disponibili <a href="https://support.google.com/websearch/answer/173733">qui</a>. Le query di ricerca o le informazioni contenute nell\'URL referrer potrebbero essere disponibili mediante Google Analytics o un\'API (Application Programming Interface). Inoltre, gli inserzionisti potrebbero ricevere informazioni relative all\' esatte parole chiave che hanno determinato il clic su un annuncio.</p>',
     ], 
 ];
@@ -33,17 +33,76 @@ $page_contents = [
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PHP Google FAQ</title>
+    <title>PHP Google FAQ</title>    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha512-YWzhKL2whUzgiheMoBFwW8CKV4qpHQAEuvilg9FAn5VJUDwKZZxkJNuGM4XkWuk94WCrrwslk8yWNGmY1EduTA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <link rel="stylesheet" href="./css/style.css">
 </head>
 <body>
-    <?php 
-    foreach($page_contents as $page_content){
-        foreach ($page_content as $tag){
-            echo $tag;
-        }
-    }    
-    ?>
+    <header>
+        <div class="container-fluid">
+
+            <div class="row justify-content-between align-items-center header-top">
+                <div class="col-6 d-flex">         
+                        <img src="https://www.gstatic.com/images/branding/googlelogo/svg/googlelogo_clr_74x24px.svg" alt="Logo Google">         
+                    <h3 class="ms-4">Privacy e termini</h3>
+                </div>
+                <div class="col-6">
+                    <div class="icons">
+                        <!-- <i class="fas fa-bars"></i> -->
+                    </div>
+                    <div class="user-photo">
+                    <!-- <i class="fas fa-user"></i> -->
+                    </div>
+                </div>
+            </div>
+            <div class="row header-bottom">
+                <div class="col-12">
+                    <ul class="d-flex black">
+                        <li><a href="">Introduzione</a></li>
+                        <li><a href="">Norme sulla privacy</a></li>
+                        <li><a href="">Termini di servizio</a></li>
+                        <li><a href="">Tecnologie</a></li>
+                        <li ><a href="" class="active">Domande frequenti</a></li>
+                                </ul>
+                </div>
+            </div>
+        </div>
+    </header>
+    <main>
+        <div class="container">
+            <?php
+            foreach($page_contents as $page_content){
+                foreach ($page_content as $tag){
+                    echo $tag;
+                }
+            }
+            ?>
+        </div>
+    </main>
+    <footer>
+        <div class="container h-100">
+            <div class="row h-100 justify-content-between align-items-center">
+                <div class="col-6">
+                    <ul class="d-flex">
+                        <li>Google</li>
+                        <li>Tutto su Google</li>
+                        <li>Privacy</li>
+                        <li>Termini</li>
+                    </ul>
+                </div>
+                <div class="col-6 d-flex justify-content-end">
+                    <select name="language" id="language">
+                        <option value="it">Italiano</option>
+                        <option value="en">Inglese</option>
+                        <option value="de">Tedesco</option>
+                        <option value="es">Spagnolo</option>
+                        <option value="fr">Francese</option>
+
+                    </select>
+                </div>
+            </div>
+        </div>
+    </footer>
 </body>
 </html>
